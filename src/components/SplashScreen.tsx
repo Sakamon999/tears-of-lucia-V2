@@ -55,7 +55,7 @@ const SplashScreen: React.FC<SplashScreenProps> = ({ onComplete }) => {
       }`}
     >
       <BackgroundMusic 
-        src="/audio/onboardingV1.mp3" 
+        src="/audio/onboardingV2.mp3" 
         volume={0.2}
         loop={true}
       />
